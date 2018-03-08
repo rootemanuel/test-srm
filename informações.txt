@@ -1,0 +1,9 @@
+Para executar inicialmente deve ser feito:
+
+Angular
+npm i ( para instalações do pacote )
+
+Spring boot
+Startar na porta 8080 ( pois angular ira consumir da mesma )
+CORS configurado somente para localhost:4200
+
